@@ -1,6 +1,40 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <!-- Chèn ảnh nền -->
+  <img src="svg/walpaper4.jpg" width="1200" alt="walpaper" />
+
+
+  <!-- Chèn ảnh GIF mưa với cùng kích thước ảnh nền -->
+  <!-- <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" 
+       style="position: absolute; top: 1.5%; left: 50%; transform: translateX(-50%); width: 690; height: 380; object-fit: cover; clip-path: inherit; opacity: 0.5;"> -->
+
+  <!-- Chèn ảnh GIF mưa, chỉ hiển thị trong khung của ảnh -->
+  <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" style="position: absolute; top: 1.5%; left: 50%; transform: translateX(-50%); width: 88.3%; height: 46.5%; object-fit: cover; clip-path: inherit; opacity: 0.5;">
+
+  <!-- <img src="https://img.freepik.com/premium-vector/light-flare-with-rays-light-magic-sparkles_167801-232.jpg?ga=GA1.1.1315277867.1731059677&semt=ais_hybrid" alt="Sun Effect" style="position: absolute; top: 1.5%; left: 50%; transform: translateX(-50%); width: 88.3%; height: 46.5%; object-fit: cover; clip-path: inherit; opacity: 0.6; mask-image: linear-gradient(to bottom right, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%); -webkit-mask-image: linear-gradient(to bottom right, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);"> -->
+
+  
+  <!-- Chèn phần plur gradient để hiển thị rõ chữ hơn -->
+  <div style="
+    position: absolute;
+    top: 22.3%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;       /* Độ rộng của phần mờ */
+    height: 7%;       /* Chiều cao của phần mờ */
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 70%); /* Màu đen với độ trong suốt */
+    backdrop-filter: blur(3px); /* Độ mờ của nền phía sau lớp phủ */
+    border-radius: 30%;
+  ">
+  </div>
+  
+  <!-- Chèn chữ -->
+  <div style="position: absolute; top: 23%; left: 50%; transform: translate(-50%, -50%); width: 80%; max-width: 650px;">
+    <a href="https://git.io/typing-svg" target="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=800&size=45&duration=3000&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+my+github+profile." alt="Typing SVG">
+    </a>
+  </div>
+
 </a>
 
 

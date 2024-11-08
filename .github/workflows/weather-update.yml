@@ -1,0 +1,30 @@
+name: Weather Update
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Mỗi 1 giờ vào phút 0
+  workflow_dispatch:  # Có thể chạy thủ công
+
+jobs:
+  weather-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Get weather data for Ho Chi Minh
+        run: |
+          curl -s "http://api.openweathermap.org/data/2.5/weather?q=Ho+Chi+Minh&appid=${{ secrets.WEATHER_API_KEY }}&units=metric" \
+          | jq '.main.temp, .weather[0].description' > weather.txt
+          
+      - name: Commit weather data to repository
+        run: |
+          echo "Weather data updated" > weather_update.txt
+          cat weather.txt >> weather_update.txt
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add weather_update.txt
+          git commit -m "Update weather data"
+          git push
