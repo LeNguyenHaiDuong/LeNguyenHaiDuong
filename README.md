@@ -1,12 +1,10 @@
 
 <a href="#" target="_blank">
+
   <!-- Chèn ảnh nền -->
   <img src="svg/walpaper4.jpg" width="1200" alt="walpaper" />
 
 
-  <!-- Chèn ảnh GIF mưa với cùng kích thước ảnh nền -->
-  <!-- <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" 
-       style="position: absolute; top: 1.5%; left: 50%; transform: translateX(-50%); width: 690; height: 380; object-fit: cover; clip-path: inherit; opacity: 0.5;"> -->
 
   <!-- Chèn ảnh GIF mưa, chỉ hiển thị trong khung của ảnh -->
   <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" style="position: absolute; top: 1.5%; left: 50%; transform: translateX(-50%); width: 88.3%; height: 46.5%; object-fit: cover; clip-path: inherit; opacity: 0.5;">
@@ -38,6 +36,7 @@
 </a>
 
 
+<!-- <img src="main.svg" width="1200" alt="walpaper" /> -->
 
 
 
@@ -174,3 +173,7 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
 </a> -->
+
+
+
+
