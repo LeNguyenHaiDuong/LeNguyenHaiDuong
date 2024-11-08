@@ -61,7 +61,7 @@ Building on these skills, I’m actively honing my expertise to achieve my goal 
 
 <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/LeNguyenHaiDuong/LeNguyenHaiDuong/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="76%">
+        <img src="https://raw.githubusercontent.com/LeNguyenHaiDuong/LeNguyenHaiDuong/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="82%">
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://raw.githubusercontent.com/LeNguyenHaiDuong/LeNguyenHaiDuong/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language">
