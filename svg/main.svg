@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 735 405" width="735" height="405" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 735 405" width="735" height="405" xmlns="http://www.w3.org/2000/svg" xmlns:xlink='http://www.w3.org/1999/xlink'>
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml" >
 			<style>
 
         @keyframes typing {
@@ -13,7 +13,14 @@
         }
 
 
-
+        @font-face {
+          font-family: 'Sour Gummy';
+          font-style: normal;
+          font-weight: 800;
+          font-stretch: normal;
+          font-display: fallback;
+          src: url(data:font/truetype;base64,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) format('truetype');
+        }
 
 
 
@@ -60,136 +67,19 @@
 
 
         .greeting {
-          font-family: Roboto;
+          font-family: '"Sour Gummy", monospace';
           position: relative; /* Ensures z-index works */
           z-index: 10;
           overflow: hidden;
           font-weight: bold;
 					font-size: 36px;
 					line-height: 1.3;
-					letter-spacing: -1.7px;
-          <!-- animation:  typing 5s forwards; -->
+					letter-spacing: 0px;
           animation: typing 5s forwards;
           left: 53px;
           align-text: center;
           white-space: nowrap;
         }
-
-        /* Áp dụng hiệu ứng wave cho mỗi chữ cái */
-        .greeting span {
-          display: inline-block;
-          animation: wave 5s ease-in-out infinite;
-        }
-
-        /* Điều chỉnh delay cho mỗi chữ cái để tạo ra hiệu ứng sóng */
-          .greeting span:nth-child(1) {
-            animation-delay: 0s;
-          }
-          .greeting span:nth-child(2) {
-            animation-delay: 0.1s;
-          }
-          .greeting span:nth-child(3) {
-            animation-delay: 0.2s;
-          }
-          .greeting span:nth-child(4) {
-            animation-delay: 0.3s;
-          }
-          .greeting span:nth-child(5) {
-            animation-delay: 0.4s;
-          }
-          .greeting span:nth-child(6) {
-            animation-delay: 0.5s;
-          }
-          .greeting span:nth-child(7) {
-            animation-delay: 0.6s;
-          }
-          .greeting span:nth-child(8) {
-            animation-delay: 0.7s;
-          }
-          .greeting span:nth-child(9) {
-            animation-delay: 0.8s;
-          }
-          .greeting span:nth-child(10) {
-            animation-delay: 0.9s;
-          }
-          .greeting span:nth-child(11) {
-            animation-delay: 1s;
-          }
-          .greeting span:nth-child(12) {
-            animation-delay: 1.1s;
-          }
-          .greeting span:nth-child(13) {
-            animation-delay: 1.2s;
-          }
-          .greeting span:nth-child(14) {
-            animation-delay: 1.3s;
-          }
-          .greeting span:nth-child(15) {
-            animation-delay: 1.4s;
-          }
-          .greeting span:nth-child(16) {
-            animation-delay: 1.5s;
-          }
-          .greeting span:nth-child(17) {
-            animation-delay: 1.6s;
-          }
-          .greeting span:nth-child(18) {
-            animation-delay: 1.7s;
-          }
-          .greeting span:nth-child(19) {
-            animation-delay: 1.8s;
-          }
-          .greeting span:nth-child(20) {
-            animation-delay: 1.9s;
-          }
-          .greeting span:nth-child(21) {
-            animation-delay: 2s;
-          }
-          .greeting span:nth-child(22) {
-            animation-delay: 2.1s;
-          }
-          .greeting span:nth-child(23) {
-            animation-delay: 2.2s;
-          }
-          .greeting span:nth-child(24) {
-            animation-delay: 2.3s;
-          }
-          .greeting span:nth-child(25) {
-            animation-delay: 2.4s;
-          }
-          .greeting span:nth-child(26) {
-            animation-delay: 2.5s;
-          }
-          .greeting span:nth-child(27) {
-            animation-delay: 2.6s;
-          }
-          .greeting span:nth-child(28) {
-            animation-delay: 2.7s;
-          }
-          .greeting span:nth-child(29) {
-            animation-delay: 2.8s;
-          }
-          .greeting span:nth-child(30) {
-            animation-delay: 2.9s;
-          }
-          .greeting span:nth-child(31) {
-            animation-delay: 3s;
-          }
-          .greeting span:nth-child(32) {
-            animation-delay: 3.1s;
-          }
-          .greeting span:nth-child(33) {
-            animation-delay: 3.2s;
-          }
-          .greeting span:nth-child(34) {
-            animation-delay: 3.3s;
-          }
-          .greeting span:nth-child(35) {
-            animation-delay: 3.4s;
-          }
-          .greeting span:nth-child(36) {
-            animation-delay: 3.5s;
-          }
 
 
 
@@ -217,45 +107,36 @@
 			<div class="container">
         <div class="blur"></div>
         <div class="rain-effect"></div>
-        <div class="greeting">
-          <span>W</span>
-          <span>e</span>
-          <span>l</span>
-          <span>c</span>
-          <span>o</span>
-          <span>m</span>
-          <span>e</span>
-          <span> </span>
-          <span> </span>
-          <span>t</span>
-          <span>o</span>
-          <span> </span>
-          <span> </span>
-          <span>m</span>
-          <span>y</span>
-          <span> </span>
-          <span> </span>
-          <span>G</span>
-          <span>i</span>
-          <span>t</span>
-          <span>H</span>
-          <span>u</span>
-          <span>b</span>
-          <span> </span>
-          <span> </span>
-          <span>p</span>
-          <span>r</span>
-          <span>o</span>
-          <span>f</span>
-          <span>i</span>
-          <span>l</span>
-          <span>e</span>
-        </div>
+        <!-- <div class="greeting">Welcome to my github profile.</div> -->
 
 
-        <!-- <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" class="rain-effect" /> -->
+
+
+
+    
+
+
 			
       </div>
 		</div>
 	</foreignObject>
+
+  <path id='path0'>
+    <!-- Single line -->
+    <animate id='d0' attributeName='d' begin='0s'
+      dur="3500ms" fill="freeze" 
+      values="m0,35 h0 ; m0,35 h700 ; m0,35 h700 ; m0,35 h0" 
+      keyTimes="0;0.68571428571429;0.82857142857143;1" 
+      repeatCount="1" />
+  </path>
+    <text font-family='"Sour Gummy", monospace' fill='#FFFFFF' font-size='45'
+      dominant-baseline='middle'
+      x='50%' text-anchor='middle'
+      dy="3.8em"
+      letter-spacing='normal'>
+      <textPath xlink:href='#path0'>
+          Welcome to my github profile.
+      </textPath>
+    </text>
+
 </svg>
