@@ -1,5 +1,5 @@
 ![rainy](https://github.com/user-attachments/assets/4b738586-7d5c-4495-9c5b-75312bf5b838)
-
+![main](https://github.com/user-attachments/assets/1ad76e0b-fd36-47a0-85de-06d0f5a7bf1d)
 <a href="#" target="_blank">
   <img src="svg/main.svg" width="1200" alt="duongle-official" />
 </a>
