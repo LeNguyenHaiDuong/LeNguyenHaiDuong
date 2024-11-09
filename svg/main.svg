@@ -7,11 +7,7 @@
           from { width: 0 }
           to { width: 100% }
         }
-        @keyframes wave {
-          0%, 100% { transform: translateY(0); /* Không có biến đổi */ }
-          50% { transform: translateY(-10px); /* Sóng lên */ }
-        }
-
+        
 
         @font-face {
           font-family: 'Sour Gummy';
@@ -107,36 +103,52 @@
 			<div class="container">
         <div class="blur"></div>
         <div class="rain-effect"></div>
-        <!-- <div class="greeting">Welcome to my github profile.</div> -->
-
-
-
-
-
-    
-
 
 			
       </div>
 		</div>
 	</foreignObject>
 
-  <path id='path0'>
-    <!-- Single line -->
-    <animate id='d0' attributeName='d' begin='0s'
-      dur="3500ms" fill="freeze" 
-      values="m0,35 h0 ; m0,35 h700 ; m0,35 h700 ; m0,35 h0" 
-      keyTimes="0;0.68571428571429;0.82857142857143;1" 
-      repeatCount="1" />
-  </path>
-    <text font-family='"Sour Gummy", monospace' fill='#FFFFFF' font-size='45'
-      dominant-baseline='middle'
-      x='50%' text-anchor='middle'
-      dy="3.8em"
-      letter-spacing='normal'>
-      <textPath xlink:href='#path0'>
-          Welcome to my github profile.
-      </textPath>
+  
+  
+  
+  
+  
+  
+  <style>
+  /* CSS cho hiệu ứng wave */
+  @keyframes wave {
+      0% { transform: translateY(0px); }
+      20% { transform: translateY(2px); }
+      60% { transform: translateY(-8px); }
+  }
+  /* Áp dụng hiệu ứng wave cho toàn bộ text sau khi typing hoàn tất */
+  #wave-text {
+    animation: wave 4s -0.2s linear infinite;
+    animation-delay: 2.6s; /* Bắt đầu sau khi typing hoàn tất */
+  }
+  </style>
+
+
+
+    <path id="path0">
+        <!-- Animation typing -->
+        <animate id="d0" attributeName="d" begin="0s"
+            dur="3500ms" fill="freeze"
+            values="m0,35 h0 ; m0,35 h700 ; m0,35 h700" keyTimes="0;0.68571428571429;1" />
+    </path>
+    <text id="wave-text" font-family='"Sour Gummy", monospace' fill="#FFFFFF" font-size="45"
+        dominant-baseline="middle"
+        x="50%" text-anchor="middle"
+        dy="3.8em">
+
+        <textPath xlink:href="#path0">
+            Welcome to my github profile.
+        </textPath>
     </text>
 
 </svg>
+
+
+
+
