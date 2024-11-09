@@ -202,7 +202,7 @@
 
 
 
-        <!-- .rain-effect {
+        .rain-effect {
           position: absolute;
           top: 0;
           left: 0;
@@ -211,7 +211,7 @@
           object-fit: cover;  /* Phủ kín toàn bộ frame */
           opacity: 0.5;
           z-index: 1;  /* GIF nằm dưới chữ */
-        } -->
+        }
 
 			</style>
 
@@ -254,7 +254,7 @@
         </div>
 
 
-        <!-- <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" class="rain-effect" /> -->
+        <img src="https://i.gifer.com/2ii5.gif" alt="Rain Effect" class="rain-effect" />
 			
       </div>
 		</div>
