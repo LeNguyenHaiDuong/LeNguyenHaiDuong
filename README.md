@@ -1,6 +1,6 @@
+<img src="https://github.com/user-attachments/assets/4b738586-7d5c-4495-9c5b-75312bf5b838" alt="Rain Effect" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; z-index: 10;" />
 <a href="#" target="_blank">
   <img src="svg/main.svg" width="1200" alt="duongle-official" />
-  <img src="https://github.com/user-attachments/assets/4b738586-7d5c-4495-9c5b-75312bf5b838" alt="Rain Effect" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5; z-index: 10;" />
 </a>
 
 <h2 align="center">Introduction</h2>
