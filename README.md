@@ -1,6 +1,6 @@
 <a href="#" target="_blank">
   <img src="svg/main.svg" width="1200" alt="duongle-official" />
-  <img src="https://s7.ezgif.com/tmp/ezgif-7-8c576c89ba.png" width="1200" alt="raindrop" style="position: absolute; top: 50; left: 0; height: 100%; object-fit: cover; opacity: 0.5; z-index: 10;/>
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-8c576c89ba.png" width="1200" alt="raindrop" style="position: absolute; top: -1000; left: 0; height: 100%; object-fit: cover; opacity: 0.5; z-index: 10;/>
 </a>
 
 <h2 align="center">Introduction</h2>
