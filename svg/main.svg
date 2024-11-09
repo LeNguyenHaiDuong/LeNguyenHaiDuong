@@ -49,7 +49,7 @@
         .blur {
           width: 670px; /* Set width for oval shape */
           height: 45px; /* Set height for oval shape */
-          background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.4), rgba(255, 255, 255, 0.2) 90%); /* Gradient fading out from center */
+          background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.4), rgba(255, 255, 255, 0) 90%); /* Gradient fading out from center */
           border-radius: 35%; /* Adjusted to create an oval shape */
           position: absolute;
           top: 45%;
