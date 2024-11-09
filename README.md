@@ -1,4 +1,6 @@
-<img src="svg/main.svg" width="1200" alt="walpaper" />
+<a href="#" target="_blank">
+  <img src="svg/main.svg" width="1200" alt="duongle-official" />
+</a>
 
 <h2 align="center">Introduction</h2>
 
