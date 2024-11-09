@@ -1,4 +1,4 @@
-<img src="svg/walpaper7.png" width="1200" alt="walpaper" />
+<img src="svg/main.svg" width="1200" alt="walpaper" />
 
 <h2 align="center">Introduction</h2>
 
