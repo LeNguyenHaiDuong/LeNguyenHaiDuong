@@ -4,7 +4,7 @@
 
 <h2 align="center">Introduction</h2>
 
-<picture> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200px ></picture>
+<picture> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 190px ></picture>
 
 
 I am a fresh graduate from HCMUS. With a passion for working with data and discovering valuable insights, I have completed the data science program at this institution, including many courseworks in this field. Utilizing this knowledge, I have undertaken projects in data analysis and predictive modeling, gaining practical experience in the data science workflow and completing my thesis on data mining.
