@@ -2,7 +2,7 @@
   <img src="svg/main.svg" width="1200" alt="duongle-official" />
 </a>
 
-<h2 align="center">About me</h2>
+<h2 align="center">☘️ About me ☘️</h2>
 
 <picture> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 170px></picture>
 
@@ -14,7 +14,7 @@ Building on these skills, I’m actively honing my expertise to achieve my goal 
 
 
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🌱 GitHub Stats 🌱</h2>
 
 <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
