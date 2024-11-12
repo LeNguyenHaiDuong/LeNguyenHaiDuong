@@ -35,6 +35,7 @@ Building on these skills, I’m actively honing my expertise to achieve my goal 
 </div>
 <br>
 
+<h2 align="center">🌱 Some repositories 🌱</h2>
 
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeNguyenHaiDuong\&repo=Cinema-Ticket-Sales-Analyst)
 
