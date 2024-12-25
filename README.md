@@ -9,7 +9,7 @@
 
 I am a fresh graduate from HCMUS. With a passion for working with data and discovering valuable insights, I have completed the data science program at this institution, including many courseworks in this field. Utilizing this knowledge, I have undertaken projects in data analysis and predictive modeling, gaining practical experience in the data science workflow and completing my thesis on data mining.
 
-Building on these skills, I’m actively honing my expertise to achieve my goal of becoming a Data Engineer and Data Scientist, where I aim to continue uncovering valuable insights and applying data-driven solutions.
+Building on these skills, I’m actively honing my expertise to achieve my goal of becoming a Data Engineer and Data Scientist, where I aim to continue uncovering valuable insights and applying data-driven solutions. This is [my portfolio](https://duongle-portfolio.vercel.app/) (just PC version not responsive).
 
 
 
